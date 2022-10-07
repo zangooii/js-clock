@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "digital-7";
+  src: url("digital_font/digital-7.ttf");
+}
+body{
+    background-color: gray;
+}
+
+.global_div {
+  font-family: "digital-7";
+  text-align: center;
+}
+
+.time_div {
+  font-size: 250px;
+}
+
+.head_div {
+  font-size: 300px;
+}
